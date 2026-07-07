@@ -1,0 +1,6 @@
+windows/** linguist-vendor=true
+linux/** linguist-vendor=true
+macos/** linguist-vendor=true
+android/** linguist-vendor=true
+ios/** linguist-vendor=true
+web/** linguist-vendor=true
